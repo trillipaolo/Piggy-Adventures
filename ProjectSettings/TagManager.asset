@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Terrain
+  - Rainbow
+  - Shit
+  - Flame
+  - Building
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Shit
+  - Flame
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - Terrain
+  - 
+  - 
+  - 
+  - 
+  - Rainbow
+  - 
+  - 
+  - 
+  - 
+  - Text
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 3481977875
+    locked: 0
+  - name: Terrain
+    uniqueID: 3966691019
+    locked: 0
+  - name: Rainbow
+    uniqueID: 1585934593
+    locked: 0
+  - name: Dash
+    uniqueID: 1636483719
+    locked: 0
+  - name: Player
+    uniqueID: 1774331203
+    locked: 0
+  - name: Flame
+    uniqueID: 1108750025
+    locked: 0
+  - name: Fire
+    uniqueID: 3106661705
+    locked: 0
+  - name: Shit
+    uniqueID: 1888731701
+    locked: 0
+  - name: Building
+    uniqueID: 2293670959
+    locked: 0
